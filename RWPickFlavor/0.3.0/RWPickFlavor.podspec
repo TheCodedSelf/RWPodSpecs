@@ -44,7 +44,7 @@ s.dependency 'MBProgressHUD', '~> 1.1.0'
 s.source_files = "RWPickFlavor/**/*.{swift}"
 
 # 9
-s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib}"
+s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.1"
